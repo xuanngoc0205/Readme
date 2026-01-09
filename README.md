@@ -12,17 +12,15 @@
     </h1>
   <table>
    <tr>
-    <td>
-    1763514079973.jpg
-     </td>
+    <td><img src="image/1763514079973.jpg" width="180" height="270"></td>
      <td>
-     Võ Xuân Ngọc <br>
-     "Vani | Cinephile | Music Lover.<br> 
+      <h2> Sở thích </h2>
+Cinephile | Music Lover.<br> 
      Đang sống trong những thước phim và bản nhạc. <br> 
      Kết nối với mình nếu bạn cũng là một 'mọt' chính hiệu!" <br>
-     <h2 style = "color: red;"Ưu điểm<
-     </td>
-    </tr>
-  </table>
-   </body>
-  </html>
+     <h3 style = "color: red;"Ưu điểm </h3> 
+   </td>
+  </tr>
+</table>
+ </body>
+</html>
