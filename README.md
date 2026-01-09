@@ -17,7 +17,7 @@
      </td>
      <td>
      Võ Xuân Ngọc <br>
-     "Vani | 🎬 Cinephile | 🎧 Music Lover. <br> 
+     "Vani | Cinephile | Music Lover.<br> 
      Đang sống trong những thước phim và bản nhạc. <br> 
      Kết nối với mình nếu bạn cũng là một 'mọt' chính hiệu!" <br>
      <h2 style = "color: red;"Ưu điểm<
