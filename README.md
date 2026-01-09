@@ -19,6 +19,9 @@ Cinephile | Music Lover.<br>
      Đang sống trong những thước phim và bản nhạc. <br> 
      Kết nối với mình nếu bạn cũng là một 'mọt' chính hiệu!" <br>
      <h3 style = "color: red;"Ưu điểm </h3> 
+      chilling
+     <h4 style = "color: green;"> Ước mơ</h4>
+    Nhiều tiền <br> 
    </td>
   </tr>
 </table>
