@@ -11,9 +11,9 @@
     GIỚI THIỆU BẢN THÂN
     </h1>
   <table>
-    <tr>
-     <td> 
-https://github.com/xuanngoc0205/Readme/blob/main/1763514079973.jpg
+   <tr>
+    <td>
+    1763514079973.jpg
      </td>
      <td>
      Võ Xuân Ngọc <br>
